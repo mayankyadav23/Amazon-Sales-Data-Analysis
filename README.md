@@ -48,11 +48,11 @@ Generate new columns from existing ones, including:
 Perform exploratory data analysis to answer the listed questions and aims of this project.
 
 ## Documentation 📚
-- **High Level Document**: [View Here](https://github.com/Amazon-Sales-Data-Analysis/Docs/HLD-ASA) 
-- **Low Level Document**: [View Here](https://github.com/Amazon-Sales-Data-Analysis/Docs/LLD-ASA)
-- **Architecture Diagram**: ![Architecture](https://github.com/Amazon-Sales-Data-Analysis/Docs/Architecture-Design)
-- **Wireframe**: ![Wireframe](https://github.com/Amazon-Sales-Data-Analysis/Docs/Wireframe-Design)
-- **Report**: [Download Report](https://github.com/Amazon-Sales-Data-Analysis/Detailed-Project-Report-AmazonSA)
+- **High Level Document**: [View Here](https://github.com/mayankyadav23/Amazon-Sales-Data-Analysis/blob/main/Docs%2FHLD%20ASA.pdf) 
+- **Low Level Document**: [View Here](https://github.com/mayankyadav23/Amazon-Sales-Data-Analysis/blob/main/Docs%2FLLD%20ASA.pdf)
+- **Architecture Diagram**: [Architecture](https://github.com/mayankyadav23/Amazon-Sales-Data-Analysis/blob/main/Docs%2FArchitecture%20Design.pdf)
+- **Wireframe**: [Wireframe](https://github.com/mayankyadav23/Amazon-Sales-Data-Analysis/blob/main/Docs%2FWireframe%20Design.pdf)
+- **Report**: [Download Report](https://github.com/mayankyadav23/Amazon-Sales-Data-Analysis/blob/main/Detailed%20Project%20Report%20AmazonSA.pptx)
 
 ## Conclusion 🎉
 This project provides valuable insights into Amazon's sales data, aiding in the optimization of sales strategies and enhancing decision-making processes. By understanding sales trends and customer behavior, businesses can better allocate resources and improve profitability.
