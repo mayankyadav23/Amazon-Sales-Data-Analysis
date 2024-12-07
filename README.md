@@ -47,16 +47,12 @@ Generate new columns from existing ones, including:
 ### Exploratory Data Analysis (EDA)
 Perform exploratory data analysis to answer the listed questions and aims of this project.
 
-## Dashboard 🎥
-- **Watch the complete Dashboard video**: [Video Link](https://example.com/video) <!-- Replace with your actual video URL -->
-- **Check out the dashboard**: [Dashboard](https://example.com/dashboard) <!-- Replace with your actual dashboard URL -->
-
 ## Documentation 📚
-- **High Level Document**: [Download Here](https://example.com/high-level-doc) <!-- Replace with your actual document URL -->
-- **Low Level Document**: [Download Here](https://example.com/low-level-doc) <!-- Replace with your actual document URL -->
-- **Architecture Diagram**: ![Architecture](https://example.com/architecture-diagram.png) <!-- Replace with your actual image URL -->
-- **Wireframe**: ![Wireframe](https://example.com/wireframe.png) <!-- Replace with your actual image URL -->
-- **Report**: [Download Report](https://example.com/report) <!-- Replace with your actual report URL -->
+- **High Level Document**: [View Here](https://github.com/Amazon-Sales-Data-Analysis/Docs/HLD-ASA) 
+- **Low Level Document**: [View Here](https://github.com/Amazon-Sales-Data-Analysis/Docs/LLD-ASA)
+- **Architecture Diagram**: ![Architecture](https://github.com/Amazon-Sales-Data-Analysis/Docs/Architecture-Design)
+- **Wireframe**: ![Wireframe](https://github.com/Amazon-Sales-Data-Analysis/Docs/Wireframe-Design)
+- **Report**: [Download Report](https://github.com/Amazon-Sales-Data-Analysis/Detailed-Project-Report-AmazonSA)
 
 ## Conclusion 🎉
 This project provides valuable insights into Amazon's sales data, aiding in the optimization of sales strategies and enhancing decision-making processes. By understanding sales trends and customer behavior, businesses can better allocate resources and improve profitability.
